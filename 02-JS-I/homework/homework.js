@@ -31,27 +31,31 @@ function devolverString(str) {
     var nombre = "str";
     return nombre;
 }
-
+    
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
     var suma = 2 + 3;
-    return suma
+    return suma;
 }
     suma (2, 3); // 5
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  
+     var resta = 2 - 1;
+     return resta;
 }
+     resta (2, 1); // 1
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
+    var multiplica = 3 * 2;
+    return multiplica;
 }
+    multiplica (3, 2); // 6
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
